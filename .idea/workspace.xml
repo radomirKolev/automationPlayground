@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6061680-050e-41ef-a2a2-888d87ff8449" name="Default Changelist" comment="" />
+    <list default="true" id="b6061680-050e-41ef-a2a2-888d87ff8449" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/AutomationStore/DriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AutomationStore/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -27,11 +34,11 @@
   </component>
   <component name="ProjectId" id="1jFATXNCbw08mAs0YmrASG2dxhv" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -50,7 +57,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Tests.helloWorld">
+  <component name="RunManager" selected="TestNG.MainPage.test">
+    <configuration name="MainPage.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automationPlayground" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainPage" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tests.helloWorld (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="automationPlayground" />
       <option name="PACKAGE_NAME" value="" />
@@ -113,13 +141,15 @@
       <item itemvalue="TestNG.Tests.helloWorld (1)" />
       <item itemvalue="TestNG.Tests.helloWorld (2)" />
       <item itemvalue="TestNG.Tests.helloWorld (3)" />
+      <item itemvalue="TestNG.MainPage.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.MainPage.test" />
         <item itemvalue="TestNG.Tests.helloWorld" />
+        <item itemvalue="TestNG.Tests.helloWorld (1)" />
         <item itemvalue="TestNG.Tests.helloWorld (3)" />
         <item itemvalue="TestNG.Tests.helloWorld (2)" />
-        <item itemvalue="TestNG.Tests.helloWorld (1)" />
       </list>
     </recent_temporary>
   </component>
