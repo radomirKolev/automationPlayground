@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6061680-050e-41ef-a2a2-888d87ff8449" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AutomationStore/DriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AutomationStore/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AutomationStore/Utils/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AutomationStore/pages/ContactUsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AutomationStore/pages/FooterSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AutomationStore/pages/HeaderSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Footer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HeaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MainTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AutomationStore/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AutomationStore/Utils/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AutomationStore/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AutomationStore/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MainPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AutomationStore/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AutomationStore/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BaseTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +44,7 @@
   </component>
   <component name="ProjectId" id="1jFATXNCbw08mAs0YmrASG2dxhv" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../delete" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -57,12 +67,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.MainPage.test">
-    <configuration name="MainPage.test" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.MainTest.test">
+    <configuration name="MainTest.test" type="TestNG" temporary="true">
       <module name="automationPlayground" />
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainPage" />
+      <option name="MAIN_CLASS_NAME" value="MainTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
@@ -141,11 +151,11 @@
       <item itemvalue="TestNG.Tests.helloWorld (1)" />
       <item itemvalue="TestNG.Tests.helloWorld (2)" />
       <item itemvalue="TestNG.Tests.helloWorld (3)" />
-      <item itemvalue="TestNG.MainPage.test" />
+      <item itemvalue="TestNG.MainTest.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.MainPage.test" />
+        <item itemvalue="TestNG.MainTest.test" />
         <item itemvalue="TestNG.Tests.helloWorld" />
         <item itemvalue="TestNG.Tests.helloWorld (1)" />
         <item itemvalue="TestNG.Tests.helloWorld (3)" />
