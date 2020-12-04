@@ -21,4 +21,5 @@ public class HomePage {
     public void search() {
         element.sendKeys("kur");
     }
+
 }
