@@ -14,6 +14,7 @@ public class Contact {
         contactUsPage
                 .populateEmail("hello@world.com")
                 .messageBox("test")
+                .selectSubjectHeading(ContactUsPage.SubjectHeading.WEBMASTER.option)
                 .populateOrderReference("123456789")
                 .attachFile("\\main\\java\\AutomationStore\\Utils\\hello.txt")
                 .submit();
