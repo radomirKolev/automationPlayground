@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 public class Contact {
 
-    WebDriver driver = DriverFactory.getChromeDriver();
+    WebDriver driver = DriverFactory.getDriver();
     ContactUsPage contactUsPage = new ContactUsPage(driver);
 
     @Test

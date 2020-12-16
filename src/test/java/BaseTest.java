@@ -9,7 +9,7 @@ public class BaseTest {
 
     @BeforeSuite
     public void setup() {
-        driver = DriverFactory.getChromeDriver();
+        driver = DriverFactory.getDriver();
         driver.manage().window().maximize();
     }
 
