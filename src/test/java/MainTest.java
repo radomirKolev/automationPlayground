@@ -1,11 +1,10 @@
-import AutomationStore.Utils.DriverFactory;
 import AutomationStore.pages.HomePage;
-import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
+import static AutomationStore.Utils.DriverFactory.*;
+
 public class MainTest extends BaseTest {
-    WebDriver driver = DriverFactory.getChromeDriver();
-    HomePage home = new HomePage(driver);
+    HomePage home = new HomePage(getDriver());
 
     @Test
     public void test() {

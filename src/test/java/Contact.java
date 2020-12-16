@@ -1,13 +1,12 @@
-import AutomationStore.Utils.DriverFactory;
 import AutomationStore.pages.ContactUsPage;
-import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import static AutomationStore.Utils.DriverFactory.*;
+
 public class Contact {
 
-    WebDriver driver = DriverFactory.getChromeDriver();
-    ContactUsPage contactUsPage = new ContactUsPage(driver);
+    ContactUsPage contactUsPage = new ContactUsPage(getDriver());
 
     @Test
     public void successfullySendMessage() {
