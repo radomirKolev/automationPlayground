@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02f2b10e-852d-4366-8a54-47197b40065a" name="Default Changelist" comment="">
+    <list default="true" id="9c04dbbe-b90d-40ce-aadb-ac265f21d658" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AutomationStore/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AutomationStore/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/MainPage.class" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -29,80 +29,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.MainTest.test">
-    <configuration name="PropertiesReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AutomationStore.Utils.PropertiesReader" />
-      <module name="automationPlayground" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AutomationStore.Utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
-      <module name="automationPlayground" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="automationPlayground" />
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.main" />
-      <item itemvalue="Application.PropertiesReader" />
-      <item itemvalue="TestNG.MainTest.test" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="TestNG.MainTest.test" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.PropertiesReader" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="02f2b10e-852d-4366-8a54-47197b40065a" name="Default Changelist" comment="" />
-      <created>1608138030154</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1608138030154</updated>
-    </task>
-    <task id="LOCAL-00001" summary="properties file added, multiple browser choice logic implemented">
-      <created>1608144923568</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1608144923568</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,9 +45,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="properties file added, multiple browser choice logic implemented" />
-    <option name="LAST_COMMIT_MESSAGE" value="properties file added, multiple browser choice logic implemented" />
   </component>
 </project>
